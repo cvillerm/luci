@@ -1555,7 +1555,7 @@ msgstr "Appareil inaccessible ! Toujours en attente de l’appareil ..."
 
 #: modules/luci-mod-network/root/usr/share/luci/menu.d/luci-mod-network.json:78
 msgid "Diagnostics"
-msgstr "Diagnostiques"
+msgstr "Diagnostics"
 
 #: protocols/luci-proto-3g/htdocs/luci-static/resources/protocol/3g.js:101
 #: protocols/luci-proto-ncm/htdocs/luci-static/resources/protocol/ncm.js:93
@@ -2772,7 +2772,7 @@ msgstr "Contrainte du certificat interne (domaine)"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1559
 msgid "Inner certificate constraint (SAN)"
-msgstr "Contrainte certificat interne (SAN)"
+msgstr "Contrainte du certificat interne (SAN)"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1556
 msgid "Inner certificate constraint (Subject)"
